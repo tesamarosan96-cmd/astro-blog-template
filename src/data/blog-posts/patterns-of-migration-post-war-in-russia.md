@@ -5,8 +5,6 @@ description: "Places of migration of Russian citizens."
 heroImage: "/blog-placeholder-1.jpg"
 category: "General"
 ---
-This version is streamlined to be punchy, easy to read, and highly motivating. It focuses on the benefits of life in Serbia and the ease of working with you, using the "OutRush 2024" data to build instant trust.
-
 Your Future in the Heart of Europe: Why Serbia is the Top Choice for Success
 The results of the latest OutRush 2024 global study are in, and they confirm what we see every day: Serbia has become a premier destination for talented professionals and growing businesses.
 
